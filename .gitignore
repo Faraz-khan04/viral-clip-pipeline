@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+logs/
+output/
+config/yt_client_secrets.json
+config/yt_token.json
+{config,logs,output/
